@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: chromium-media
+Upstream-Contact: Ventz Petkov <software@vpetkov.net>
+Source: https://pi.vpetkov.net | Dev Blog: https://blog.vpetkov.net
+Disclaimer: Widevine DRM ("libwidevine"/"libwidevinecmd") is a product of Google and additional copyright/privacy policy/terms of service can be found: http://policies.google.com/terms
+Comment: Chromium Media "edition" for Netflix, Hulu, Amazon Prime, Disney+, HBO, Spotify, Pandora, Hoopla, MUBI, BritBox, and many others.
+Files: *
+Copyright: Copyright 2020 Ventz Petkov
+License: CC-BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

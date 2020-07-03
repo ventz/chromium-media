@@ -1,0 +1,12 @@
+Package: chromium-media
+Version: 0.1
+Architecture: all
+Maintainer: Simon Long <simon@raspberrypi.com>
+Installed-Size: 7140
+Depends: chromium-browser
+Section: admin
+Priority: optional
+Homepage: https://blog.vpetkov.net
+Description: Widevine DRM
+ Installs the Widevine DRM library and a menu shortcut to start Chromium
+ with it enabled.

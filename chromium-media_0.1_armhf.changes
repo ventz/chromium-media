@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Thu, 02 Jul 2020 20:39:32 -0400
+Source: chromium-media
+Binary: chromium-media
+Architecture: source all
+Version: 0.1
+Distribution: buster
+Urgency: low
+Maintainer: Simon Long <simon@raspberrypi.com>
+Changed-By: Ventz Petkov <software@vpetkov.net>
+Description:
+ chromium-media - Widevine DRM
+Changes:
+ chromium-media (0.1) buster; urgency=low
+ .
+   * Initial release of "ventz-media-pi" as a DEB package for Rasbperry Pi.
+   * Includes libwidevine v4.10.1679.0
+   * Includes Chrome User Agent string for CrOS Chrome/77.0.3865.120
+Checksums-Sha1:
+ bd83748df9087ee08ebcb7c1b858dde9da3263ba 571 chromium-media_0.1.dsc
+ fc6a5c730d4a1ae6ed61eb07eca45144ddb29f48 1980 chromium-media_0.1.tar.xz
+ c6b4644180a86d84804c03cf04d70c767729b061 4612400 chromium-media_0.1_all.deb
+ e11e6b9451a2bbe3e24ef32f24820fc33861ea01 4584 chromium-media_0.1_armhf.buildinfo
+Checksums-Sha256:
+ 06d37f0577ef4c13fa06b37dbb1e45b6d9e1b61e42fb570ada6a549350bc062f 571 chromium-media_0.1.dsc
+ fb4c22b1529c2fc87482d8073a1bc0997f702a1feeff1a375b7d6da0a01c5fa2 1980 chromium-media_0.1.tar.xz
+ 41a28e4fb4ef2dc5b3896c50207c240b4f6daaa065a204f89990a047de23a5eb 4612400 chromium-media_0.1_all.deb
+ 344cf99cf6cee884b4fd2e8c6410cf84d7f759f4c8ef1da37026525e1855327f 4584 chromium-media_0.1_armhf.buildinfo
+Files:
+ 204a588e91ceea06fa96945a0015f5f0 571 admin optional chromium-media_0.1.dsc
+ 4c8b849792b82a4a6253d9d16afa20b2 1980 admin optional chromium-media_0.1.tar.xz
+ 88574ddcef686ca257ba53998065913f 4612400 admin optional chromium-media_0.1_all.deb
+ faad956f665cec94467413fd177fa3ae 4584 admin optional chromium-media_0.1_armhf.buildinfo

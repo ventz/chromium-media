@@ -1,0 +1,7 @@
+chromium-media (0.1) buster; urgency=low
+
+  * Initial release of "ventz-media-pi" as a DEB package for Rasbperry Pi.
+  * Includes libwidevine v4.10.1679.0
+  * Includes Chrome User Agent string for CrOS Chrome/77.0.3865.120
+
+ -- Ventz Petkov <software@vpetkov.net>  Thu, 02 Jul 2020 20:39:32 -0400

@@ -1,0 +1,14 @@
+Source: chromium-media
+Section: admin
+Priority: optional
+Maintainer: Simon Long <simon@raspberrypi.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://blog.vpetkov.net
+
+Package: chromium-media
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, chromium-browser
+Description: Widevine DRM
+ Installs the Widevine DRM library and a menu shortcut to start Chromium 
+ with it enabled.
